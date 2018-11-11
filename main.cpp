@@ -26,7 +26,7 @@ int main(int argc, char *argv[])
 		cout << s.at(i);
 	}*/
 
-	while (infiletest >> s)
+	while (infiletest >> s) //(getline(infile,s)) for line by line display
 	{
 		if (s == "Post")
 		{
@@ -82,4 +82,6 @@ int main(int argc, char *argv[])
 	cout << "Hit enter to exit:" << endl;
 	cin.get(c);
 	return 0;
+
+	//this is a test
 }
