@@ -89,4 +89,4 @@ int Post::setIncrementer(int test)
 	return identifier;
 }
 
-//boogers
+//Hercules is cute!!
