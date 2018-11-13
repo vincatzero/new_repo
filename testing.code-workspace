@@ -1,0 +1,65 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/*.o": true,
+			"**/*.d": true,
+			"**/a.out": true,
+			"**/makefile": true,
+			"**/*code-workspace": true,
+			"**/.vscode": true
+		},
+		"editor.fontSize": 12,
+		"editor.insertSpaces": false,
+		"editor.cursorWidth": 1,
+		"editor.formatOnPaste": true,
+		"editor.formatOnSave": true,
+		"editor.minimap.enabled": false,
+		"editor.minimap.showSlider": "always",
+		"editor.quickSuggestionsDelay": 15,
+		"files.trimTrailingWhitespace": true,
+		"editor.detectIndentation": false,
+		"editor.dragAndDrop": false,
+		"editor.showFoldingControls": "always",
+		"workbench.colorTheme": "Default Light+",
+		"workbench.startupEditor": "none",
+		"debug.enableAllHovers": true,
+		"debug.inlineValues": true,
+		"git.autofetch": true,
+		"python.autoComplete.addBrackets": true,
+		"files.associations": {
+			"string": "cpp",
+			"*.tcc": "cpp",
+			"cctype": "cpp",
+			"clocale": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"exception": "cpp",
+			"initializer_list": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"system_error": "cpp",
+			"type_traits": "cpp",
+			"typeinfo": "cpp",
+			"fstream": "cpp"
+		}
+	}
+}
